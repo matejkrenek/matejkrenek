@@ -1,6 +1,6 @@
 ### Greetings, my name is Matěj Křenek
 
-Hey, I'm Matěj Křenek. By name you can recognize I live in center of a Europe. In Czech Republic. It is really beautiful country and I love it here. My passionate is in web development. I was starting to learn frontend (html, css, javascript) and I have even tried to developed some web apps using react and firebase. Now I'm adding to it some backend with node.js.
+Hey, I'm Matěj Křenek. By name you can recognize I live in center of a Europe. In Czech Republic. It is really beautiful country and I love it here. My passionate is in web development. I have experienes both, with frontend (HTML, CSS, JAVSCRIPT, REACT) and backend (NODEJS, MONGODB, FIREBASE). Javascript is my language number one. I love the simplicity of it and also that weird equality approach.
 
 ⚡ Skills: HTML / CSS / JAVASCSRIPT / NODEJS / MONGODB / EJS / FIREBASE AUTH / FIREBASE FIRESTORE
 - 😄 Some Experience: DJANGO / PYTHON

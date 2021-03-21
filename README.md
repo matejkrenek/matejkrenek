@@ -4,7 +4,7 @@ Hey, I'm Matěj Křenek. By name you can recognize I live in center of a Europe.
 
 - ⚡ Skills: HTML / CSS / JAVASCSRIPT / NODEJS / MONGODB / EJS / FIREBASE AUTH / FIREBASE FIRESTORE / GIT
 - 😄 Some Experience: DJANGO / PYTHON
-- 🌱 I’m currently learning: REACT with REDUX
+- 🌱 I’m currently learning: React, Redux and working on full stack learning platform
 - 📫 How to reach me: mate23.krenek@gmail.com 
 
 

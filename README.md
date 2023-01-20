@@ -4,6 +4,7 @@ Hey there, my name is Matěj Křenek. I live in a beautiful country called the C
 
 - ⚡ Skills: HTML, SCSS, Javascript, Typescript, NodeJS, MongoDB, Gulp, GIT, Docker, Python, Laravel, React, MySQL, NextJS
 - 🌱 I’m currently learning: DevOps 
+- 🐴 Hobbies: guitar, microprocessors, problem solving
 - 💻 I’m working on: [bomshop.cz](https://bomshop.cz/), m&m works and [Bengr](https://github.com/bengr-digital)
 - 📫 How to reach me: [mate23.krenek@gmail.com](mailto:mate23.krenek@gmail.com)
 

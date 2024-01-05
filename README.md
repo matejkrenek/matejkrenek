@@ -6,7 +6,7 @@ Hey there, my name is Matěj Křenek. I live in a beautiful country called the C
 - 🌱 I’m currently learning: DevOps 
 - 🐴 Hobbies: guitar, microprocessors, problem solving, programming, progression, business, music, reading
 - 📕 I’m reading: **Steal the Show** by **Michael Port**
-- 💻 I’m working at: [IZON](https://www.izon.cz/), [Bengr](https://bengr.cz/) and [Servis design](https://www.servis-design.cz/)
+- 💻 I’m working at: [Bengr](https://bengr.cz/) and [Servis design](https://www.servis-design.cz/)
 - 📫 How to reach me: [mate23.krenek@gmail.com](mailto:mate23.krenek@gmail.com)
 
 
